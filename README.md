@@ -2,9 +2,10 @@
  Simple Rock,Paper,Scissors Game
 
 +What are the shapes of Rock Paper Scissors?
-*Rock The rock is when you place your hand into the form of a simple fist.
-*Paper The paper is when you place your hand in an outstretched position.
-*Scissors This is when you hold your fist with your index and middle finger pointing outwards in a V shape.
+
+-Rock The rock is when you place your hand into the form of a simple fist.
+-Paper The paper is when you place your hand in an outstretched position.
+-Scissors This is when you hold your fist with your index and middle finger pointing outwards in a V shape.
 
 +Why is Rock Paper Scissors played?
 
